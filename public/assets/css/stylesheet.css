@@ -1,0 +1,27 @@
+/* Stylesheet */
+
+body {
+    background-color: lightcyan;
+}
+
+table, tr, td {
+    border: 1px black solid;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td {
+    height: 30px;
+    width: 30px;
+}
+
+h1, h2, td {
+    text-align: center;
+}
+
+a {
+    float: right;
+}
